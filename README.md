@@ -8,4 +8,4 @@ This is a work-in-progress recreation of the Leap-Font by the late Brad Fuller. 
 Making music, of course!
 
 ## When can I expect a useable .sf2 or .dls?
-Soon<sup>TM</sup>
+Soon<sup>TM</sup>. As previously mentioned, this will take awhile to process and finalize all of the samples and compile them into a soundfont. If anyone wants to help, please feel free to do so.
