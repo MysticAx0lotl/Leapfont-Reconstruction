@@ -9,3 +9,9 @@ Making music, of course!
 
 ## When can I expect a useable .sf2 or .dls?
 Soon<sup>TM</sup>. As previously mentioned, this will take awhile to process and finalize all of the samples and compile them into a soundfont. If anyone wants to help, please feel free to do so.
+
+## Why are you doing this?
+I wanted something beyond my usual skillset, and I wanted to do a project that involved music
+
+## How can I help?
+Use the Issues tab for comments and questions, and the Pull Requests tab to let me know if you've made any more progress than I have.
