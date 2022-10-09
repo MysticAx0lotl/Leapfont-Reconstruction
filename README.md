@@ -1,6 +1,8 @@
 # Leap-Font Reconstruction
 A reconstruction of the LeapFont from Leapster systems
 
+#NOTE: This repo has been archived due to someone else finishing this project. Go to https://musical-artifacts.com/artifacts/1669 to download the SF2.
+
 ## What is this?
 This is a work-in-progress recreation of the Leap-Font by the late Brad Fuller. The samples were extracted from the Leapster BIOS at https://www.deviantart.com/smochdar/art/LeapFrog-Systems-Soundfont-Leap-font-PLEASE-READ-871610660. Some samples may be slightly truncated or have bits of extra data in the files, but will be useable for music nonetheless (although I might go back and fine-tune them, but this will take awhile as there are over 250 sounds).
 
